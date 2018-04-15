@@ -1,4 +1,4 @@
-# Tic-Tac-Toe-using-Qlearning
+# Tic-Tac-Toe using Qlearning
 Tic-Tac-Toe using Q learning technique
 
 This code creates an AI to play Tic-Tac-Toe in best possible way. 
