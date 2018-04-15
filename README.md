@@ -2,6 +2,7 @@
 Tic-Tac-Toe using Q learning technique
 
 This code creates an AI to play Tic-Tac-Toe in best possible way. 
+
 Training:
 The model is trained for certain number of iterations where a positive reward and negative rewards are given to moves that lead to winning or losing of the game. The reward values for every move is saved in a Q-table. An example of Q-table is saved in the Qtable.pickle 
 Playing Tic-Tac-Toe:
